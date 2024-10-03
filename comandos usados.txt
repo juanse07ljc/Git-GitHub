@@ -1,0 +1,11 @@
+-git status
+   (give me the status recently)
+
+-git add "(name.file)" 
+   (to add a new archive)….. you can typhe git status to rectify
+
+-git commit -m "mensaje de confirmacion" 
+     (was added a new archive ultimately)
+
+PUSH
+git push -u origin(rama) master/main
